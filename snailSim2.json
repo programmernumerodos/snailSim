@@ -1,0 +1,13 @@
+{
+    "reproProb": 10,
+    "predProb": 50,
+    "initialFood": 1000,
+    "foodRegen": 100,
+    "maxFood": 1000,
+    "maturityAge": 30,
+    "maxAge": 365,
+    "minOffspring": 2,
+    "maxOffspring": 5,
+    "swampWidth": 250,
+    "swampLength": 250
+    }
